@@ -1,3 +1,5 @@
+# House Price Prediction: Survey of Data Mining Methods and Regression Techniques
+
 ### 1.Explored the dataset and prepared the data by handling missing values and encoding categorical variables.
 ### 2.Explored the relationships between different features.
 ### 3.Conducted clustering analysis. 
